@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="left">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
