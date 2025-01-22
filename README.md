@@ -89,9 +89,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=DOHOON0127&theme=dark&show_icons=true" />&nbsp
 </div>
 
-<br>
-
-<h3 align="left">📫 Contact 📫</h3>
+<h2 align="left">📫 Contact 📫</h2>
 <div align="left">
   <a href="mailto:kkdh1215@gmail.com">
     <img src="https://img.shields.io/badge/kkdh1215@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
