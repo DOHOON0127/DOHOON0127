@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">👀 Github Stats 👀</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOHOON0127&theme=dark&show_icons=true" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=DOHOON0127&theme=dark&show_icons=true&count_private=true&hide=stars,contribs&count_private=true"/>&nbsp
 </div>
 
 <h2 align="left">📫 Contact 📫</h2>
