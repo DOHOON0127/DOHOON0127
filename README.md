@@ -143,14 +143,6 @@ Passionate about "Foundation Platforms" that support high-performance AI service
 
 <h2 align="left">👀 Github Stats 👀</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOHOON0127&theme=dark&show_icons=true&count_private=true&hide=stars,contribs&count_private=true"/>&nbsp
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOHOON0127&theme=dark&hide_border=true" alt="DOHOON0127" />
-</div>
-
-<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DOHOON0127&theme=dracula" />
 </div>
 
