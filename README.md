@@ -34,7 +34,7 @@ Passionate about "Foundation Platforms" that support high-performance AI service
 
 ### **JoyCity**
 
-**Server Developer Intern (AI Platform Server Backend)** | *Dec. 2025 – Jun. 2026*
+**Server Developer Intern (AI Platform Server)** | *Dec. 2025 – Jun. 2026*
 
 * **Role:** Developing backend systems for the Multimedia Design Division, focusing on AI service serving and foundation platforms.
 * **API & Pipeline:** Designed and implemented RESTful APIs for AI model serving, ensuring scalability and stability under high traffic.
@@ -94,7 +94,7 @@ Passionate about "Foundation Platforms" that support high-performance AI service
 
 * **2nd Place**, XTON Hackathon, Dongguk University SW Education Center Director's Award (2025)
 * **2nd Place**, DU Idea Challenge Competition, Dongguk University President's Award (2025)
-* **4th Place**, Hyundai Autoever App Development Contest, to be selected (2025 ~ In progress) 
+* **4th Place**, Hyundai Autoever App Development Contest, to be selected (Jun. 2025 ~ In progresss) 
 
 * **Gopax Guardians (Blockchain Education Supporter)** | *Jul. 2023 – Dec. 2023*
 * **Tecker Silicon Valley SW BootCamp**, Trainee | *Nov. 2024 – Feb. 2025*
