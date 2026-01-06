@@ -92,9 +92,9 @@ Passionate about "Foundation Platforms" that support high-performance AI service
 
 ## 🏆 Awards & Activities
 
-* **2nd Place**, XTON Hackathon, Dongguk University SW Education Center Director's Award (2025)
-* **2nd Place**, DU Idea Challenge Competition, Dongguk University President's Award (2025)
-* **4th Place**, Hyundai Autoever App Development Contest, to be selected (Jun. 2025 ~ In progresss) 
+* **2nd Place**, XTON Hackathon, Dongguk University SW Education Center Director's Award (*2025*)
+* **2nd Place**, DU Idea Challenge Competition, Dongguk University President's Award (*2025*)
+* **4th Place**, Hyundai Autoever App Development Contest, to be selected (*Jun. 2025 ~ in progress*) 
 
 * **Gopax Guardians (Blockchain Education Supporter)** | *Jul. 2023 – Dec. 2023*
 * **Tecker Silicon Valley SW BootCamp**, Trainee | *Nov. 2024 – Feb. 2025*
