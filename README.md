@@ -94,7 +94,8 @@ Passionate about "Foundation Platforms" that support high-performance AI service
 
 * **2nd Place**, XTON Hackathon, Dongguk University SW Education Center Director's Award (*2025*)
 * **2nd Place**, DU Idea Challenge Competition, Dongguk University President's Award (*2025*)
-* **4th Place**, Hyundai Autoever App Development Contest, to be selected (*Jun. 2025 ~ in progress*) 
+* **3rd Place**, Hyundai Autoever App Development Contest, Green Light Association President Award (*Jun. 2025 ~ Feb. 2026*) 
+* **4th Place**, Hyundai Autoever App Development Contest, to be selected (*Jun. 2025 ~ Feb. 2026*) 
 
 * **Gopax Guardians (Blockchain Education Supporter)** | *Jul. 2023 – Dec. 2023*
 * **UMC (University MakeUs Challenge)** - Challenger (8th) & Server Part | *Mar. 2025 – Aug. 2025*
