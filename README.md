@@ -99,7 +99,8 @@ Passionate about "Foundation Platforms" that support high-performance AI service
 
 * **Gopax Guardians (Blockchain Education Supporter)** | *Jul. 2023 – Dec. 2023*
 * **UMC (University MakeUs Challenge)** - Challenger (8th) & Server Part | *Mar. 2025 – Aug. 2025*
-* **UMC (University MakeUs Challenge)** - Vice President (9th) & Server Part | *Sep. 2025 – Present*
+* **UMC (University MakeUs Challenge)** - Vice President (9th) & Server Part | *Sep. 2025 – Feb. 2026*
+* **UMC (University MakeUs Challenge)** - Server Part Leader (10th) & Server Part | *Feb. 2026 – Present*
 
 ---
 
