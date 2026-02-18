@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About
 
-**Incoming Server Developer** <br>
+** Server Developer** <br>
 Backend Engineer focused on building robust service pipelines and optimizing architecture.<br>
 Passionate about "Foundation Platforms" that support high-performance AI services.
 
